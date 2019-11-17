@@ -1,0 +1,10 @@
+# /Project/IAR/program/Debug
+/Project/IAR/
+/Project/MDK/DebugConfig/
+/Project/MDK/Objects/
+*.eww
+*.exe
+*.o
+*.s
+*.icf
+*.xcl

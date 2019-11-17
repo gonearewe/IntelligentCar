@@ -1,0 +1,75 @@
+/*************************PINT0**********************/
+void PIN_INT0_DriverIRQHandler(void)
+{
+    PINT_IST_FLAG_CLEAR(PINT_CH0);  //清除标志位
+    if(flag_mode)
+    {
+        dis_time = pit_get_us();        //获取时间
+        distance = dis_time*340/1000/2; //因为声波是跑的来回 因此这里需要除以2
+        flag_mode = 0;
+    }
+    
+}
+/***********************主函数内 ***************/
+#define TRIG_PIN A22               //定义超声波触发引脚端口 靠近5V
+#define ECHO_PIN A21                //定义超声波回响引脚端口
+ 
+uint32 dis_time;//定义时间变量 单位微秒
+uint32 distance;//定义距离变量 单位毫米
+uint8  flag_mode = 0;//当前运行状态 0：采集结束  1：正在采集 
+
+
+pit_start();
+    //中断函数在ISR.c文件中  函数名称为PIN_INT0_DriverIRQHandler
+
+    while(1)
+    {
+        if(!flag_mode)                   //如果当前没有采集到数据 则触发新的一次采集
+        {
+            //本IF内的 程序调用频率不宜过快，过快会导致超声波数据异常。
+            flag_mode = 1;
+            gpio_set(TRIG_PIN, 1);
+            systick_delay_us(10);       //延时10us   
+            gpio_set(TRIG_PIN, 0);
+            
+            while(!gpio_get(ECHO_PIN)); //检测到接收引脚为高电平则开始计时
+            dis_time = 0;               //时间清零
+
+            pit_clean();                //清除计时并重新启动
+        }
+    
+    
+        //超时检测
+        if(6000 <= pit_get_us())   //如果等待6ms之后还未接收到回响信号则 认为前方无障碍物  可根据自己的需求改变 越小测量的最大距离则越短
+        {
+            dis_time = 0;           //时间清零
+            distance = 1000;        //2000毫米 
+            flag_mode = 0;          //采集结束
+        }   
+        
+        systick_delay_ms(3);
+    
+    }
+
+
+
+
+
+if(mt9v032_finish_flag)
+        {
+            mt9v032_finish_flag = 0;
+            lcd_displayimage032(image[0],MT9V032_W,MT9V032_H);
+        }
+    for(int p = 0;p<70;p++)
+        {
+          lcd_drawpoint(Left[70-p],p+50,YELLOW);
+          lcd_drawpoint(Right[70-p],p+50,BLUE);
+          lcd_drawpoint(Middle[70-p],p+50,RED); 
+        }
+151,149,148,146,144,142,140,138,136,134,
+     132,130,128,126,124,122,120,118,116,114,
+     112,110,108,106,104,102,100,98,96,94,
+     92,90,88,86,84,82,80,78,76,74,
+     72,70,68,66,64,62,60,58,56,54,
+     52,50,48,46,44,42,40,38,36,34,
+     32,30,28,26,24,22,20,18,16,14

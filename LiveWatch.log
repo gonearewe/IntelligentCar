@@ -1,0 +1,1445 @@
+Expression	Value	Location	Type	
+image	<array>	0x20000200	uint8[120][188]	
+[0]	<array>"$$!#""#,23/0488:<:7@=E;DBFE>GFID:GIHJIBGYabbccbbc..."	0x20000200	uint8[188]	
+[1]	<array>" (!!$#$'083/3697:=?8@?H:BDGF=IJMC:HLKLKCHZggghhhgf..."	0x200002BC	uint8[188]	
+[2]	<array>" *"$#"%/43036789=:7A<I<B?FF>HHKC:GLKKJAGXdfgfdgfg..."	0x20000378	uint8[188]	
+[3]	<array>"!+ "%$%'1422176<9>?7?=H=ACEH;GHLE:FMJLLDGWfcffffge..."	0x20000434	uint8[188]	
+[4]	<array>"#!/  % &%$&0861478::<<6@>F<B@GI;HHLE<FLJJJEHTbeeffefe..."	0x200004F0	uint8[188]	
+[5]	<array>"#"+"""&%'&15/22567:<:5?>F=>BFH<HGKD8ALIIJEFSbddeeeef..."	0x200005AC	uint8[188]	
+[6]	<array>" #$+###&&*' 154018599:<5@<E=?>AG:EFJF;BJIHHFFSabcdceef..."	0x20000668	uint8[188]	
+[7]	<array>"#"(##"'$$%#%* 051.26587<>4==D<:?DG7DFJE9?IHGFFCPbbdeeefd..."	0x20000724	uint8[188]	
+[8]	<array>"$$&$"#&'(%!$) /80-187589<5<;E>:?AF:ABIF:@HHEFFBM`accdeed..."	0x200007E0	uint8[188]	
+[9]	<array>"$('%#%('(&#$+".44/1676:<<4==D?:?BG;@EIH:=IHFEFDM^addedff..."	0x2000089C	uint8[188]	
+[10]	<array>"%(&%"''&)'$$+#275/2589;;<3<=D?9@?G9=CJH=;GIGGIEK]cbceeef..."	0x20000958	uint8[188]	
+[11]	<array>"#&$&"%&&)'#%+!332,1455:<;5;=C>7>=E9;AHF?:EFDGEDJZaccbeec..."	0x20000A14	uint8[188]	
+[12]	<array>" $(% '"&('('"&)$363,2874:;=39=DA6:?D:9BGF=:BFHIGEJ[cceefff..."	0x20000AD0	uint8[188]	
+[13]	<array>"%'$ %"'(')'$252/2566:;<48<BA5;=G<;BFH?;BFGEFFIXbddefee..."	0x20000B8C	uint8[188]	
+[14]	<array>" $("&"'&'((#432+254578:768?@29:D;6?FEB<BDEFFCHT`cdcdde..."	0x20000C48	uint8[188]	
+[15]	<array>"!#&$!)#)(())$653-254788:53<AB29<E;6>EHC8AEFGGEGRacdddec..."	0x20000D04	uint8[188]	
+[16]	<array>"!%+&!($)+))+$754,35968<?85?AC88;E>8@CJE<AGIGEGIS`ddfeff..."	0x20000DC0	uint8[188]	
+[17]	<array>"$%+')%(*(), 653+3585:8=65>@D76=GA8?AIH=?EIFDIJQ`edffge..."	0x20000E7C	uint8[188]	
+[18]	<array>"#&+'!)$(*(*,!595-117358=919>E85;EC6;BIG=<CIEDFHP_bcdefe..."	0x20000F38	uint8[188]	
+[19]	<array>""%*%"*&*)'*-!!867/14;688@91<>F;5<CD7:DJJ@>CIICIIN_dfeedf..."	0x20000FF4	uint8[188]	
+[20]	<array>"$&+(#+#**,). 994.14<47:@:3<?D<4<DF7:AJJA;BHHDIJN\deffff..."	0x200010B0	uint8[188]	
+[21]	<array>"#(*'#($)+)*.!485.03;359>6189C<3;@D86?HI@<?JHGDJK[bfffgg..."	0x2000116C	uint8[188]	
+[22]	<array>""(*(!*$*,+*0%5;6.-38677=806<D?29>D97BEIB=@GIDGJMZcdgffg..."	0x20001228	uint8[188]	
+[23]	<array>"#&)'")'()*)-#2860,39448>912;BA18=D95<EJF;?HGEBIMWddefgg..."	0x200012E4	uint8[188]	
+[24]	<array>"$(*'"&'++,)-'089/+29449>:13=AA56<F;6=CIF==CGE@GLUeegggg..."	0x200013A0	uint8[188]	
+[25]	<array>"#')+#'')--)0'.772*39438;:21=AC25=D;4<CIF@?DJDAHMPeffhih..."	0x2000145C	uint8[188]	
+[26]	<array>""(()!')),,*0*+982+1;835;<5/:AD549@=3:DIE><DGGBHKPadfffg..."	0x20001518	uint8[188]	
+[27]	<array>"!&'*#')),+)/)%::1*/76339<4/7=C62<@?77@IG=<BGDBDKO_ddegh..."	0x200015D4	uint8[188]	
+[28]	<array>"'()"%)&+-(.+ 792'.54257>6/3:>6/7>=54?JH>;=EEGCJM\ceefg..."	0x20001690	uint8[188]	
+[29]	<array>"!('*%$,'-.)//$9:6+/88448<7/3<B:18<@65?HI@=BGGJJLM[deffh..."	0x2000174C	uint8[188]	
+[30]	<array>""(&,$%+',.*./%894-,69357@7/2<A;/89B82=GGAA@GGIIKMWddfgg..."	0x20001808	uint8[188]	
+[31]	<array>""&',$"*%,-,,0(1;5.+5:346>8118B>239A:39FG@=:EDHJHKSddeee..."	0x200018C4	uint8[188]	
+[32]	<array>"!(&+%!)$-++,3(-=80)3:447>82-5A?429A<28DD=>;@AFIHJPaecff..."	0x20001980	uint8[188]	
+[33]	<array>""%%,("+%,.+*1)"&97/'-9525=94.3;B219?=38AF?@:?@EHIKMabcee..."	0x20001A3C	uint8[188]	
+[34]	<array>"%'),*$+)/.,)2.&#;:0*.;632<<6-4>?5/8?>56AG>B<@@GHHLMZa_ab..."	0x20001AF8	uint8[188]	
+[35]	<array>"$"%*)!*%,++*2+$682(*:610994.19?6-6;?40>E>><>?EGHJJZbbcc..."	0x20001BB4	uint8[188]	
+[36]	<array>"!"&))!$&,-,(.,&580)*5512596-.7@7.48<717C=@<:ADIFIJVbbde..."	0x20001C70	uint8[188]	
+[37]	<array>"#$&(+$%*+-+)/.)"1:4+)46126941.4>9-37?516A:>>=AFKIIJP`bcd..."	0x20001D2C	uint8[188]	
+[38]	<array>"#"(&*$"(**-)-.('+94,'29021<65-2=9018?844BAB?@BGJHLLLcded..."	0x20001DE8	uint8[188]	
+[39]	<array>"% &'+%!()--*-/-'1:6.&-7131:56.-9<+-6<2).A=@ABBFLJKJ93326..."	0x20001EA4	uint8[188]	
+[40]	<array>"(!)&-()(,-)-/.(&1-( !*,*#-1/4..."	0x20001F60	uint8[188]	
+[41]	<array>"( &$*'")()($&'+,..."	0x2000201C	uint8[188]	
+[42]	<array>"!!##$""&%&'(*-)21/./-/22.101555469::9;<=;;..."	0x200020D8	uint8[188]	
+[43]	<array>"!# #$$&%')$$&'*)))-,,,+.../001524346878;::<;=?>ABAEEC..."	0x20002194	uint8[188]	
+[44]	<array>"'&%&&&&+/.)&&(*''$$&%),-.-//0/2403233548699>BFKRZagijklkkmon..."	0x20002250	uint8[188]	
+[45]	<array>"BBCFFHIJKH,'())*()+**-./02/31235878BOZabefhghjihjkjkllmkjmmn..."	0x2000230C	uint8[188]	
+[46]	<array>"LJKNNMG1*+--0.,0,,--,022422:KYaddfeggiiijkjkkkjgbWLED?ADCFIH..."	0x200023C8	uint8[188]	
+[47]	<array>"KLE.***,-,-----.*))'*0AV]^_``befefegffge[J7479:89889<<9<>@CD..."	0x20002484	uint8[188]	
+[48]	<array>"(+)*+*+-*+-**+*KOMUYZ]\]_]_aaceefe]I11533345166978988:<?>?DE..."	0x20002540	uint8[188]	
+[49]	<array>"(,,-,-,+)*.3HWZZ\\\\][^aabbcc_R7,01222133557669777689;<=?BDE..."	0x200025FC	uint8[188]	
+[50]	<array>"*,-+)-/>QVVXXY[Z]\[Y]]^`^W=,+10002001232133453586569889;=?BD..."	0x200026B8	uint8[188]	
+[51]	<array>")/:MSUVVWVXYWZXZ[YZWO7+),.,-+/..01110412354243264877886;>?AB..."	0x20002774	uint8[188]	
+[52]	<array>"RRSTTTVVVVWWWXVS9,('')'+,,,,./.1//1003331424345485789:::<<@@..."	0x20002830	uint8[188]	
+[53]	<array>"STTUSVVVXVRB.+**)))'')*,/-,,,-0./.0//100203356567776:79;;?@B..."	0x200028EC	uint8[188]	
+[54]	<array>"SSTTSQF*$%&((((*('')(&%(*+,**//,///001320/3523256665747799>@..."	0x200029A8	uint8[188]	
+[55]	<array>"RJ/&%&(')&'(&)(((&%%%$()')+*-.-,-/.0//001.10233253247688:=<?..."	0x20002A64	uint8[188]	
+[56]	<array>"()(('('%('()')'('*&%('())-,,-.../.0//0131133355565689889<?<=..."	0x20002B20	uint8[188]	
+[57]	<array>"*(&&'%%%$&&&'')'''%%%'')))+.-,,-/.-,/./2/1211246435456589:<>..."	0x20002BDC	uint8[188]	
+[58]	<array>"(&%%%&"$%$&'''''%#%$$&(*(()*+,+-,+...-.100.//20033244546988:..."	0x20002C98	uint8[188]	
+[59]	<array>"(''&'%$&%&%%%''%(''%&&)-(*+,,,.-,/0.300/011010125425577787<<..."	0x20002D54	uint8[188]	
+[60]	<array>"'''&%&%)'(&')(&*(')'''',)*,,+.,+,/.--0/1/0/20/11443658=878:8..."	0x20002E10	uint8[188]	
+[61]	<array>"('$$#'%'&$(&$'$&'$'&'&&()**)*.,+-+..-000.2131124434565687:::..."	0x20002ECC	uint8[188]	
+[62]	<array>"(%$%$#&$&$&$&&&'$%'%%'&&(('*)*(-),,,,.-0/-.10000322368757889..."	0x20002F88	uint8[188]	
+[0]	40	0x20002F88	uint8	
+[1]	37	0x20002F89	uint8	
+[2]	36	0x20002F8A	uint8	
+[3]	37	0x20002F8B	uint8	
+[4]	36	0x20002F8C	uint8	
+[5]	35	0x20002F8D	uint8	
+[6]	38	0x20002F8E	uint8	
+[7]	36	0x20002F8F	uint8	
+[8]	38	0x20002F90	uint8	
+[9]	36	0x20002F91	uint8	
+[10]	38	0x20002F92	uint8	
+[11]	36	0x20002F93	uint8	
+[12]	38	0x20002F94	uint8	
+[13]	38	0x20002F95	uint8	
+[14]	38	0x20002F96	uint8	
+[15]	39	0x20002F97	uint8	
+[16]	36	0x20002F98	uint8	
+[17]	37	0x20002F99	uint8	
+[18]	39	0x20002F9A	uint8	
+[19]	37	0x20002F9B	uint8	
+[20]	37	0x20002F9C	uint8	
+[21]	39	0x20002F9D	uint8	
+[22]	38	0x20002F9E	uint8	
+[23]	38	0x20002F9F	uint8	
+[24]	40	0x20002FA0	uint8	
+[25]	40	0x20002FA1	uint8	
+[26]	39	0x20002FA2	uint8	
+[27]	42	0x20002FA3	uint8	
+[28]	41	0x20002FA4	uint8	
+[29]	42	0x20002FA5	uint8	
+[30]	40	0x20002FA6	uint8	
+[31]	45	0x20002FA7	uint8	
+[32]	41	0x20002FA8	uint8	
+[33]	44	0x20002FA9	uint8	
+[34]	44	0x20002FAA	uint8	
+[35]	44	0x20002FAB	uint8	
+[36]	44	0x20002FAC	uint8	
+[37]	46	0x20002FAD	uint8	
+[38]	45	0x20002FAE	uint8	
+[39]	48	0x20002FAF	uint8	
+[40]	47	0x20002FB0	uint8	
+[41]	45	0x20002FB1	uint8	
+[42]	46	0x20002FB2	uint8	
+[43]	49	0x20002FB3	uint8	
+[44]	48	0x20002FB4	uint8	
+[45]	48	0x20002FB5	uint8	
+[46]	48	0x20002FB6	uint8	
+[47]	48	0x20002FB7	uint8	
+[48]	51	0x20002FB8	uint8	
+[49]	50	0x20002FB9	uint8	
+[50]	50	0x20002FBA	uint8	
+[51]	51	0x20002FBB	uint8	
+[52]	54	0x20002FBC	uint8	
+[53]	56	0x20002FBD	uint8	
+[54]	55	0x20002FBE	uint8	
+[55]	53	0x20002FBF	uint8	
+[56]	55	0x20002FC0	uint8	
+[57]	56	0x20002FC1	uint8	
+[58]	56	0x20002FC2	uint8	
+[59]	57	0x20002FC3	uint8	
+[60]	60	0x20002FC4	uint8	
+[61]	61	0x20002FC5	uint8	
+[62]	62	0x20002FC6	uint8	
+[63]	55	0x20002FC7	uint8	
+[64]	46	0x20002FC8	uint8	
+[65]	45	0x20002FC9	uint8	
+[66]	100	0x20002FCA	uint8	
+[67]	117	0x20002FCB	uint8	
+[68]	116	0x20002FCC	uint8	
+[69]	114	0x20002FCD	uint8	
+[70]	112	0x20002FCE	uint8	
+[71]	109	0x20002FCF	uint8	
+[72]	106	0x20002FD0	uint8	
+[73]	68	0x20002FD1	uint8	
+[74]	60	0x20002FD2	uint8	
+[75]	61	0x20002FD3	uint8	
+[76]	57	0x20002FD4	uint8	
+[77]	57	0x20002FD5	uint8	
+[78]	57	0x20002FD6	uint8	
+[79]	59	0x20002FD7	uint8	
+[80]	55	0x20002FD8	uint8	
+[81]	58	0x20002FD9	uint8	
+[82]	58	0x20002FDA	uint8	
+[83]	59	0x20002FDB	uint8	
+[84]	55	0x20002FDC	uint8	
+[85]	54	0x20002FDD	uint8	
+[86]	55	0x20002FDE	uint8	
+[87]	54	0x20002FDF	uint8	
+[88]	54	0x20002FE0	uint8	
+[89]	53	0x20002FE1	uint8	
+[90]	51	0x20002FE2	uint8	
+[91]	52	0x20002FE3	uint8	
+[92]	52	0x20002FE4	uint8	
+[93]	54	0x20002FE5	uint8	
+[94]	55	0x20002FE6	uint8	
+[95]	54	0x20002FE7	uint8	
+[96]	54	0x20002FE8	uint8	
+[97]	53	0x20002FE9	uint8	
+[98]	53	0x20002FEA	uint8	
+[99]	51	0x20002FEB	uint8	
+[100]	51	0x20002FEC	uint8	
+[101]	53	0x20002FED	uint8	
+[102]	50	0x20002FEE	uint8	
+[103]	51	0x20002FEF	uint8	
+[104]	51	0x20002FF0	uint8	
+[105]	51	0x20002FF1	uint8	
+[106]	52	0x20002FF2	uint8	
+[107]	54	0x20002FF3	uint8	
+[108]	53	0x20002FF4	uint8	
+[109]	52	0x20002FF5	uint8	
+[110]	53	0x20002FF6	uint8	
+[111]	53	0x20002FF7	uint8	
+[112]	53	0x20002FF8	uint8	
+[113]	54	0x20002FF9	uint8	
+[114]	56	0x20002FFA	uint8	
+[115]	97	0x20002FFB	uint8	
+[116]	108	0x20002FFC	uint8	
+[117]	100	0x20002FFD	uint8	
+[118]	43	0x20002FFE	uint8	
+[119]	45	0x20002FFF	uint8	
+[120]	55	0x20003000	uint8	
+[121]	55	0x20003001	uint8	
+[122]	55	0x20003002	uint8	
+[123]	56	0x20003003	uint8	
+[124]	56	0x20003004	uint8	
+[125]	56	0x20003005	uint8	
+[126]	57	0x20003006	uint8	
+[127]	56	0x20003007	uint8	
+[128]	53	0x20003008	uint8	
+[129]	54	0x20003009	uint8	
+[130]	55	0x2000300A	uint8	
+[131]	52	0x2000300B	uint8	
+[132]	52	0x2000300C	uint8	
+[133]	52	0x2000300D	uint8	
+[134]	52	0x2000300E	uint8	
+[135]	50	0x2000300F	uint8	
+[136]	49	0x20003010	uint8	
+[137]	49	0x20003011	uint8	
+[138]	48	0x20003012	uint8	
+[139]	51	0x20003013	uint8	
+[140]	46	0x20003014	uint8	
+[141]	46	0x20003015	uint8	
+[142]	47	0x20003016	uint8	
+[143]	43	0x20003017	uint8	
+[144]	43	0x20003018	uint8	
+[145]	47	0x20003019	uint8	
+[146]	43	0x2000301A	uint8	
+[147]	41	0x2000301B	uint8	
+[148]	40	0x2000301C	uint8	
+[149]	41	0x2000301D	uint8	
+[150]	42	0x2000301E	uint8	
+[151]	40	0x2000301F	uint8	
+[152]	36	0x20003020	uint8	
+[153]	36	0x20003021	uint8	
+[154]	36	0x20003022	uint8	
+[155]	37	0x20003023	uint8	
+[156]	37	0x20003024	uint8	
+[157]	35	0x20003025	uint8	
+[158]	35	0x20003026	uint8	
+[159]	36	0x20003027	uint8	
+[160]	35	0x20003028	uint8	
+[161]	35	0x20003029	uint8	
+[162]	35	0x2000302A	uint8	
+[163]	36	0x2000302B	uint8	
+[164]	33	0x2000302C	uint8	
+[165]	34	0x2000302D	uint8	
+[166]	36	0x2000302E	uint8	
+[167]	36	0x2000302F	uint8	
+[168]	34	0x20003030	uint8	
+[169]	34	0x20003031	uint8	
+[170]	36	0x20003032	uint8	
+[171]	35	0x20003033	uint8	
+[172]	33	0x20003034	uint8	
+[173]	35	0x20003035	uint8	
+[174]	35	0x20003036	uint8	
+[175]	33	0x20003037	uint8	
+[176]	27	0x20003038	uint8	
+[177]	52	0x20003039	uint8	
+[178]	81	0x2000303A	uint8	
+[179]	83	0x2000303B	uint8	
+[180]	83	0x2000303C	uint8	
+[181]	81	0x2000303D	uint8	
+[182]	83	0x2000303E	uint8	
+[183]	83	0x2000303F	uint8	
+[184]	82	0x20003040	uint8	
+[185]	80	0x20003041	uint8	
+[186]	81	0x20003042	uint8	
+[187]	80	0x20003043	uint8	
+[63]	<array>"('''&&%%%%%%&&'(&''%&)%%&&)+,*+,,////11001002.25457457987;;;..."	0x20003044	uint8[188]	
+[64]	<array>"&$(&%&&%$#$$'&&&%&()''''(*)***+,+,,-+10-./.01031133378576898..."	0x20003100	uint8[188]	
+[65]	<array>")'%%&(''%&%&&$'+('%''%('(()))***,+--)+-./..1/010222757656685..."	0x200031BC	uint8[188]	
+[66]	<array>"((&%$&%%%&$'''%&&'&'((&'''())+)*,,,++-./0.0/11/054654134554*..."	0x20003278	uint8[188]	
+[67]	<array>"'%$$#$##$"%##$%%&$%#%$$$%%%'))+)(,,,,+--,./-.1.15541232253')..."	0x20003334	uint8[188]	
+[68]	<array>")'%$%#&&$#&%$'(&&'&&%&&)))'))(+**-,,,.-0/0131227532113551&*4..."	0x200033F0	uint8[188]	
+[69]	<array>"%&%%%$"$%$#$&"$$&'%&#$%''&%****+++.+../..-./018110012450$&6m..."	0x200034AC	uint8[188]	
+[70]	<array>"'$$$$##$%$$%&#%$$$%"%$%(#%'$))*)-+*)*.+,.-/0252/000232,&%7oq..."	0x20003568	uint8[188]	
+[71]	<array>"%##$$#$&##$%%"&###&$$%$%&'(*()*)(***-,--*1//3////1/22)%':orr..."	0x20003624	uint8[188]	
+[72]	<array>"($##&##$##$##%'%##&"##('''*,--+)(*+*+,,,.-1311./1/13'"&Bqstt..."	0x200036E0	uint8[188]	
+[73]	<array>"&$##$#"#$##&$"%$#%%##&(&''''(*)-+.,,,-./-01//00222/$"(Hsuvvw..."	0x2000379C	uint8[188]	
+[74]	<array>"&%"$!%%"$$%$$%&'&'(('%(&('&'(+(''),-*,,..3/-.2122.!"%Ntuvvvu..."	0x20003858	uint8[188]	
+[75]	<array>"$'#$$&#$#""$#%"#$$&)+*'&&$')'(')*),,,/.100//./30-!!&Tstvvwww..."	0x20003914	uint8[188]	
+[76]	<array>"&$&&&#%#$%#'$$$%'$%%%&#'()--*(****-++,/0//0/-01*!#([suuvwuvw..."	0x200039D0	uint8[188]	
+[77]	<array>"($&#%#"$$##"$"#%$$$%%%&%'')((()+())**.//+.0--/%!"&`rttstuuvv..."	0x20003A8C	uint8[188]	
+[78]	<array>"#$$"#$#"##!$#$$$%&"%&&'')$(&)''(**+)-/+0-//1/#!!+ertuuutuvvx..."	0x20003B48	uint8[188]	
+[79]	<array>"&&%$%$$"#$$"$%#%%$$&%%%%&''((('***)+.+.-.0/-###*irtststttuwv..."	0x20003C04	uint8[188]	
+[80]	<array>"$%$#%'&%'%%$%%%%&&&&($'&)*))(,**,)-.0-.-0.-%"$/jqrstststuvuv..."	0x20003CC0	uint8[188]	
+[81]	<array>"$$##$#%&'%%'&&&'$%&%%'&(&*&')&((+,--+,,//+"##1kqrrrrrsssstuu..."	0x20003D7C	uint8[188]	
+[82]	<array>"&%$###%&#'%#&&&'$&'&&&(&()))*)(+*.--/-10'!!$3lqqqrrsrrststuu..."	0x20003E38	uint8[188]	
+[83]	<array>"#"#$$#$#$$%%$&%%'(&*&$%&)*((*(-,,,-,-..#!"#6lpqqrqqqqprsssss..."	0x20003EF4	uint8[188]	
+[84]	<array>"$'%####"#%#%#%'%&'('')'))((*,+),.-0-/,$"!%8loqpqppqprrrrrrss..."	0x20003FB0	uint8[188]	
+[85]	<array>"%$##$#$$%$$$$#$'(&&%''''))**,,+,+-..-# #%<moqpqpqppprrrsssst..."	0x2000406C	uint8[188]	
+[86]	<array>"#""##!#$$"$##%$$$%$&&(&(''**((++,.-+" !#@kmnnmnnmmnopppqqpqq..."	0x20004128	uint8[188]	
+[87]	<array>"$%$%&$&%#%%&%&$%&''&()'()**+-+,.-,' !!'Dkopooopoooppqsrrqrss..."	0x200041E4	uint8[188]	
+[88]	<array>"#%$#%+&%&%%&%%')&''&''((*-*+,-,,-)!!#&Gmnooqppppopqqrsrtrstu..."	0x200042A0	uint8[188]	
+[89]	<array>""%%#%%%$##&#$%'%%&&)))())+*,,,,,% "$&Hkkmnonnonmnoppppqqpqss..."	0x2000435C	uint8[188]	
+[90]	<array>"%$$$%&&%#$!$%'(%&%&&)(('-,),)), !"%Iikllnlmnmmnonoopqpqoqss..."	0x20004418	uint8[188]	
+[91]	<array>"$#$$$$$!$$##(#&&%%(%&)()(()+**! "Ijjjklllmmlmnnoopqqpppqsr..."	0x200044D4	uint8[188]	
+[92]	<array>"%$$$$&%%$#%&$'&&)&'&&(('(+*))!%Ijjkkkmlllllnnnoopoppoprqr..."	0x20004590	uint8[188]	
+[93]	<array>"$&$#$$$$#&'%'%)'%('*('()()+*"! "$Kjkklmmlmlmmnooppqqqroqrrrs..."	0x2000464C	uint8[188]	
+[94]	<array>"""%""##$#""$##$%%$%%&%&()*( #Hghhjjkjjjjjklmmnnnoonnopppo..."	0x20004708	uint8[188]	
+[95]	<array>"$#$&%%$&%$&$"%(&'%(%''(()'  %Ihjjlklklkkklnnooppoopoprqqqq..."	0x200047C4	uint8[188]	
+[96]	<array>"%$$"%##%%$&%&$'%&&&(((')&"$Hgijkkllllklmnonooooppppqqrqpp..."	0x20004880	uint8[188]	
+[97]	<array>"####%#$$$'&%$&&&&$$'(')%#Ffiiikkjjlkklmnmnnonmoooopqpppp..."	0x2000493C	uint8[188]	
+[98]	<array>" "#!!"!""!$""#$%%#%&%%"!Gbdfghhiiiijikkkjlmllmlkmnnnmnmn..."	0x200049F8	uint8[188]	
+[99]	<array>" !"!#"#"##$$%%$$$%'%#! Hdefgfhhiiiikjkklllllmmlmnonommoo..."	0x20004AB4	uint8[188]	
+[100]	<array>"!!"$#"$$#$%%#'&&&%$&  Feefghhhhhjjikkkkkmlllmmmnnonnnmpn..."	0x20004B70	uint8[188]	
+[101]	<array>""%##$$$$#$#%&%(%&%%"!Ebeghhiijjjhkklkllmmllnnnnopoonnoop..."	0x20004C2C	uint8[188]	
+[102]	<array>" ## #"$#!#$%$&&$&!Dbeffhhighijijjkkkkllkklmmnooonmnooo..."	0x20004CE8	uint8[188]	
+[103]	<array>"#!"  #!"%%$#"%$$$A`cdcffgghhhhhjjkkklkklmlmmnnnomlnnno..."	0x20004DA4	uint8[188]	
+[104]	<array>"##&#"$$#$$$"$%'# >aeffgfhhgihjikkkkklllllllnmonoonlppoo..."	0x20004E60	uint8[188]	
+[105]	<array>"#! !"#"#"#"!!=_bccceeeegfghhiiiijjiijjkjllmllmlmlmmm..."	0x20004F1C	uint8[188]	
+[106]	<array>" !!#!" #!#$##":`aacddeeeffghhiijjkkkjjkklllmmmmlmnnmnm..."	0x20004FD8	uint8[188]	
+[107]	<array>"$##"!#"#$"##&7^`acbdeefdeffghhihjjijjjilllmlmmllllllmm..."	0x20005094	uint8[188]	
+[108]	<array>" ""!##"""""#2\_`_bdacdeecdefgfgghihhhijkjkkklkkkllkkkj..."	0x20005150	uint8[188]	
+[109]	<array>"!$!"#$$%%%%/[^abcdceffgdefiggjhiijijklllmmlmmnlkmmnnml..."	0x2000520C	uint8[188]	
+[110]	<array>""!! !!###",X\_^`abbbcbcdddeegdffhggiikjjllklkllllkklkk..."	0x200052C8	uint8[188]	
+[111]	<array>"!  !!#"!%V[\[^a`a`aabacbbcdffdfggghihjjjikjkkjkjjjjij..."	0x20005384	uint8[188]	
+[112]	<array>"!!""!#""#U\]]`^a`cacccbbcbdfcefgffhiijjkkjljjkkkjjjkkj..."	0x20005440	uint8[188]	
+[113]	<array>" "!!!#!Q[]]^^_a_abaaaacbfeddfffggijjikkkklljklkkkjkjk..."	0x200054FC	uint8[188]	
+[114]	<array>"  !LYXZ\]^^^_^a__]_a`bcdccddddfghhiihhhihiiihhhihh..."	0x200055B8	uint8[188]	
+[115]	<array>" GVWXWZ[[]\]]]^\_^```bbb`a`ddfffggghghghghgghfgec..."	0x20005674	uint8[188]	
+[116]	<array>" !BUWYX\[\]]\]]]]\^__aa_`aaacdfegfhhhhghhiiihihggfe..."	0x20005730	uint8[188]	
+[117]	<array>"<SUWZZ[\\[]\\\\]^_]^_``a```abefhfgfhhghiihhihhffee..."	0x200057EC	uint8[188]	
+[118]	<array>"4TVVWWZZ\Y[[\\\[\\\^\`^___`^`cddcefefffgghhhgffffdd..."	0x200058A8	uint8[188]	
+[119]	<array>",RTUTVWYZZYY][Z[Y[[]]]\]\\\[^``cddcdcdddghfeddedaaab..."	0x20005964	uint8[188]	
+main_clk_mhz	180	0x200001FC	uint16	
+duty	Error (col 1): Unknown or ambiguous symbol. duty			
+dfd1	Error (col 1): Unknown or ambiguous symbol. dfd1			
+dfd2	Error (col 1): Unknown or ambiguous symbol. dfd2			
+tttt	Error (col 1): Unknown or ambiguous symbol. tttt			
+re	<array>	0x20006010	int[20]	
+Right_Flag	<array>""	0x20006060	uint8[70]	
+Left_Flag	<array>"..."	0x200060A8	uint8[70]	
+Right	<array>	0x20005EF8	uint16[70]	
+Left	<array>	0x20005F84	uint16[70]	
+abc	0	0x20006130	int	
+width	<array>	0x20000000	int[70]	
+LeftLose	0	0x200060FC	int	
+RightLose	4	0x200060F8	int	
+AllLose	7	0x20006100	int	
+speedR	0	0x20006192	int16	
+Error	Error (col 1): Unknown or ambiguous symbol. Error			
+top_row	40	0x200060F4	int	
+Errorcam	4.3043479911	0x20006138	float	
+abc	0	0x20006130	int	
+WeightSum	23	0x20006140	int	
+Weight	99	0x2000613C	int	
+cn	144	0x2000612C	int	
+RudderPWM	810	0x2000617C	long	
+Kp	2.34800005	0x20006180	float	
+Steer_Kd	2.0320000644	0x20006184	float	
+huanzuo	0	0x20006104	int	
+leftdot	59	0x2000611C	int	
+Middle	<array>	0x20005DE0	int[70]	
+speedL	0	0x2000618E	int16	
+zuob	0	0x20006124	int	
+top_you	30	0x20006118	int	
+top_zuo	30	0x20006114	int	
+top_row	40	0x200060F4	int	
+jin	0	0x2000610C	int	
+huanyou	1	0x20006108	int	
+zhidao	0	0x20006110	int	
+distance	Error (col 1): Unknown or ambiguous symbol. distance			
+flag_mode	Error (col 1): Unknown or ambiguous symbol. flag_mode			
+
+
+144,143,141,139,138,136,134,132,130,128,
+   126,124,122,120,119,118,116,114,112,110,
+   108,107,105,102,100,98,96,94,92,90,
+   88,86,84,82,79,77,75,73,70,68,
+   66,64,62,60,58,56,54,52,50,48,
+   46,44,42,40,37,35,33,31,29,27,
+   25,23,22,20,18,15,13,12,11,9
+
+
+ #include "headfile.h"
+ #include "Getline.h"
+/****µÁ¥≈****/
+  uint16 sensor[5][SampleNum] = {0}; //µÁ∏–µƒ∂‡∏ˆ≤…—˘÷µ
+  uint8  peak[5] = {0}; //√ø∏ˆµÁ∏–µƒ∑Â∑Â÷µ
+  int  AD=0;
+ /***…„œÒÕ∑***/
+  uint16 Right[C_H];
+  uint16 Left[C_H];
+  uint8 Right_Flag[C_H];
+  uint8 Left_Flag[C_H];
+  int Middle[C_H];
+  int Midpri;
+  int last_row;
+  int top_row;
+  int RightLose,LeftLose,AllLose;
+  int huanzuo,huanyou,jin,zhidao;
+  int top_zuo,top_you,leftdot,rightdot,zuob,youb;
+  int rightlosestart,leftlosestart;
+  int width[C_H]={
+      150,149,148,146,145,143,141,139,137,135,
+      134,132,130,128,126,124,123,121,119,117,
+      116,114,112,111,109,107,105,103,101,99,
+      97,95,93,92,90,87,85,83,81,79,77,75,73,
+      71,69,67,65,63,61,58,56,54,52,51,49,47,
+      45,42,40,38,36,34,32,30,28,26,24,22,20,18
+      
+  };
+  int firstyuzhi;
+  int cn,re[10],rejun[10],abc,n;
+  float Errorcam,Errorele;
+  int  Weight,WeightSum;
+  int luzhang;
+  int ping,fangchajun;
+  /*****************************ª∑µ∫**************************/
+  void huandao()              //ΩˆΩˆ◊Ûª∑µ∫»Îª∑
+{
+  float a,b;
+  int zuobian;
+  for(int c=0;c<=60;c++)
+  {
+    if(Left_Flag[c]==0) zuobian=c;
+  }
+ 
+ if(jin==1)
+  {
+    for(int c=0;c<=30;c++)
+    {
+      
+      a+=(115-(Left[c]+width[c]/2));
+      b++;
+
+    }
+    Errorcam=a/b;
+  }
+  else 
+  {
+     for(int c=0;c<=10;c++)
+    {
+      
+      a+=(94-Middle[c]);
+      b++;
+      
+
+    }
+    Errorcam=a/b;
+  }
+  
+  if(Errorcam>=30) Errorcam=30;
+  if(Errorcam<=-30) Errorcam=-30;
+}
+
+  /*********************◊¢“‚ø…“‘ π”√∑Ω≤Óæ˘÷µ¿¥ºÏ—ÈºŸ…Ë  ◊‘º∫∏¯∂®„–÷µªÚ’ﬂ∞¥’’∑÷≤º*********/
+int jisuan(int shuju[]) 
+{
+  int m,count,jun;
+  int a,b;
+  m=36; //πÃ∂®Œ™ Æ–– µ´ «Œ™¡À–ﬁ∏ƒ∑Ω±„
+  for(int i=0;i<=m-1;i++) count+=shuju[i];
+  jun=count/m;
+  for(int i=0;i<=m-1;i++) a+=(shuju[i]-jun)*(shuju[i]-jun);
+  b=a/(m-1); //—˘±æ∑Ω≤Ó
+  return b;
+  
+}
+int jisuan1(int shuju[]) 
+{
+  int m,count,jun;
+  m=36; //πÃ∂®Œ™ Æ–– µ´ «Œ™¡À–ﬁ∏ƒ∑Ω±„
+  for(int i=0;i<=m-1;i++) count+=shuju[i];
+  jun=count/m;
+  return jun;
+  
+}
+void fangcha1() //∑Ω≤Ó—∞’“ µ⁄“ª––
+{
+  /********* Æ¡–‘™Àÿ*******/
+  int a,b;
+  int shuju[36];
+  for(a=30;a<40;a++)
+  {
+    for(b=75;b<=110;b++) shuju[b-75]=(int)image[a][b];
+    re[n]=jisuan(shuju); 
+    rejun[n]=jisuan1(shuju);
+    n++;
+    if(n>10)n=0;
+  }
+
+}
+void hengduan()
+{
+  for(int c=0;c<=9;c++)
+  {
+    if(re[c]<=10) fangchajun++;
+    if(abs(rejun[c]-55)<=5)ping++;
+  }
+  
+  if( fangchajun>=9&&ping>=9) luzhang=1;
+  
+}
+  /*****************************************/
+void SetInitVal()
+{
+  for (int c=0;c<=C_H-1;c++)
+  {
+    Right[c]=188;
+    Left[c]=0;
+    Middle[c]=94;
+    fangchajun=0;
+    ping=0;
+    Right_Flag[c]=0;
+    Left_Flag[c]=0;
+  }
+}
+
+void getline_first(void)
+{
+
+  SetInitVal();
+  LeftLose        = 0;//±‰¡ø«Â¡„
+  RightLose       = 0;
+  AllLose         = 0;
+  
+  firstyuzhi=90;
+  cn=0;
+  for(int c=0;c<=187;c++)
+  {
+if(image[119][c]>firstyuzhi)
+  {
+    cn=c;
+  }
+    
+  }
+  
+  /************œ»º”“ª≈‹“ª≈‹ø¥ø¥Ã·œﬂÀŸ∂»****************/
+  for(int c=cn;c<=182;c++)
+  {
+    if((image[119][c]-image[119][c+5])>=25)
+    {
+      Right[0]=c;
+      Right_Flag[0]=1;
+      break;
+    }
+  }
+  for(int i = cn;i>=5;i--)
+      {
+        if((image[119][i]-image[119][i-5])>=25)
+        {
+          Left[0] = i;
+          Left_Flag[0]=1;
+          break;
+        }
+      }
+  /**************‘› ±ªπ√ª”–≤πœﬂ****************/
+  
+  if(Right_Flag[0]==1&&Left_Flag[0]==1)
+  {
+  Middle[0]=(Right[0]+Left[0])/2;
+  }
+ else if(Right_Flag[0]==0&&Left_Flag[0]==1)
+  {
+    RightLose++;
+   Middle[0]=(Left[0]+width[0]/2);
+  }
+  else if(Right_Flag[0]==1&&Left_Flag[0]==0)
+  {
+    LeftLose++;
+    Middle[0]=(Right[0]-width[0]/2);
+  }
+  else if(Right_Flag[0]==0&&Left_Flag[0]==0)
+  {
+    AllLose++;
+    Left[0]=10;
+    Right[0]=177;
+    Middle[0]=94; //”√÷–œﬂ÷±Ω”∏¯¡À
+  }
+}
+void getline_others()
+{
+  getline_first();
+  fangcha1();
+  hengduan();
+  int xian=5;
+  if(abc==4)xian=0;
+  else xian=3;
+  for(int c=1;c<=C_H-1;c++)
+  {
+      Midpri=Middle[c-1];
+    
+    /****************◊Û”“—∞’“Ã·œﬂ∑®********************/
+    
+    for(int j=Midpri;j>=Left[c-1]-xian;j--)
+    {
+      if((image[119-c][j]-image[119-c][j-5])>=30)
+        {
+          Left[c] = j;
+          Left_Flag[c]=1;
+          break;
+        }
+      if(j<=6) break;
+    }
+    for(int j=Midpri;j<=Right[c-1]+xian;j++)
+    {
+      if((image[119-c][j]-image[119-c][j+5])>=30)
+        {
+          Right[c] = j;
+          Right_Flag[c]=1;
+          break;
+        }
+      if(j>=181) break;
+    }
+    if(Left_Flag[c]==1&&Right_Flag[c]==1)
+    {
+    Middle[c]=(Right[c]+Left[c])/2;
+    }
+    else if(Right_Flag[c]==0&&Left_Flag[c]==1)
+  {
+    RightLose++;
+    Middle[c]=(Left[c]+width[c]/2);
+    Right[c]=Right[c-1];
+  }
+  else if(Right_Flag[c]==1&&Left_Flag[c]==0)
+  {
+    LeftLose++;
+    Middle[c]=(Right[c]-width[c]/2);
+    Left[c]=Left[c-1];
+  }
+  else if(Right_Flag[c]==0&&Left_Flag[c]==0)
+  {
+    AllLose++;
+    Middle[c]=Middle[c-1];
+    Left[c]=Left[c-1];
+    Right[c]=Right[c-1];
+  }
+  }
+ // for(int c=0;c<=69;c++) width[c]=Right[c]-Left[c];
+  /**************************º∆À„ERROR*******************************/
+    Weight=WeightSum=0;
+    int jie=0;
+    if(abc==4)jie=50;
+    else jie=40;
+    for(int c=jie;c<70;c++)
+    {
+      if(Right_Flag[c]==1||Left_Flag[c]==1)
+      {
+        top_row=70-c;
+        break;
+      }
+    }
+    
+    for(int c=(top_row-top_row/4);c>=top_row/5;c--)
+    {
+      if((Right_Flag[70-c]==1||Left_Flag[70-c]==1)) 
+      {
+        Weight+=(94-Middle[70-c]);
+        WeightSum++;
+      }
+    }
+    if(WeightSum!=0) Errorcam=(float)Weight/(float)WeightSum;
+    /*******************ª∑µ∫◊Ó¥Û◊Û”“µ„≈–∂œ*********************/
+
+    for(int c=70-top_row;c<=60;c++)//leftdot
+    {
+      if(Left_Flag[c]==1)
+      {
+        top_zuo=c;
+        break;
+      }
+      
+    }
+    for(int c=70-top_row;c<=60;c++)//leftdot
+    {
+      if(Right_Flag[c]==1)
+      {
+        top_you=c;
+        break;
+      }
+      
+    }
+    for(int c=top_zuo;c<=70;c++)//leftdot
+    {
+      if((Left[c-1]<Left[c])&&(Left[c+1]<=Left[c]))
+      {
+        leftdot=c;
+        break;
+      }
+      
+    }
+    for(int c=top_zuo;c<=60;c++)//leftdot
+    {
+      if((Right[c-1]>Right[c])&&(Right[c+1]>=Right[c]))
+      {
+        rightdot=c;
+        break;
+      }
+      
+    }
+   /***********************»¸µ¿≈–∂œºÚµ•¥¶¿Ì**********************/
+     abc=0;
+   if(LeftLose>=48&&RightLose==0&&AllLose==0&&zhidao==0&&LeftLose<=56) 
+   {
+     huanzuo=1;
+     
+   }
+   if(Left_Flag[0]==0&&huanzuo==1) 
+   {
+     zuob=1;
+     zhidao=1;
+   
+   }
+   
+   if(huanzuo==1&&zuob==1) 
+   {
+     if(leftdot<=35) jin=1;
+     huandao();
+   }
+   if(AllLose>20&&LeftLose>20&&RightLose==0)
+   {
+     huanzuo=0;
+     zuob=0;
+     jin=0;
+     
+   }
+   
+   if(LeftLose<5&&RightLose<5&&AllLose<5) zhidao=0;
+   if(LeftLose==0&&RightLose>=15&&AllLose==0) 
+   {
+    huanyou=1;
+   
+   }
+   if(AllLose>20&&LeftLose<10&&RightLose<10) 
+   {
+     abc=4;
+   
+   }
+   /*********************************∫·∂œ****************************/
+  
+  
+  /********************************************************************/
+   if(Errorcam>30) Errorcam=30;
+   else if (Errorcam<-30) Errorcam=-30;
+   
+   }
+   
+ 
+ #include "headfile.h"
+ #include "Getline.h"
+/****µÁ¥≈****/
+  uint16 sensor[5][SampleNum] = {0}; //µÁ∏–µƒ∂‡∏ˆ≤…—˘÷µ
+  uint8  peak[5] = {0}; //√ø∏ˆµÁ∏–µƒ∑Â∑Â÷µ
+  int  AD=0;
+ /***…„œÒÕ∑***/
+  uint16 Right[C_H];
+  uint16 Left[C_H];
+  uint8 Right_Flag[C_H];
+  uint8 Left_Flag[C_H];
+  int Middle[C_H];
+  int Midpri;
+  int last_row;
+  int top_row;
+  int RightLose,LeftLose,AllLose;
+  int huanzuo,huanyou,jin;
+  int top_zuo,top_you,leftdot,rightdot,zuob,youb;
+  int rightlosestart,leftlosestart;
+  int width[C_H]={
+      150,149,148,146,145,143,141,139,137,135,
+      134,132,130,128,126,124,123,121,119,117,
+      116,114,112,111,109,107,105,103,101,99,
+      97,95,93,92,90,87,85,83,81,79,77,75,73,
+      71,69,67,65,63,61,58,56,54,52,51,49,47,
+      45,42,40,38,36,34,32,30,28,26,24,22,20,18
+  };
+  float weight[70]={
+                     0,0,0,0,0,0,0,0,0,0,
+                    0,0,0,0,0,0.5,0.5,2,1,1,     //0-9––£¨ª˘±æ”√≤ªµΩ
+                    2,1,1,1,1,1,2,2,2,2,  //0-19––£¨ª˘±æ”√≤ªµΩ
+                   
+                   3.8,3.8,1.8,1.8,2.8,3.3,2.3,3.3,3.3,3.3,//20-29––
+
+                   //1.05,1.05,1.05,1.05,1.05,2,2,2,2,2,
+                    
+                   2,2,2,2,2,2.0,2.0,2.5,2.5,2.5,//30-39––
+            
+                   2.1,2.1,2.1,1,1,2,1,1,1,1,//40-49––
+                  1,0,0,0,0,};//◊ÓΩ¸ Æ––*///≤ª—πœﬂ£¨”√”⁄Õ‰µ¿
+  int firstyuzhi;
+  int cn,re[20],abc,n;
+  float Errorcam,Errorele;
+  int  Weight,WeightSum;
+  int luzhang,zhidao;
+  /*****************************ª∑µ∫**************************/
+  void huandao()              //ΩˆΩˆ◊Ûª∑µ∫»Îª∑
+{
+  float a,b;
+  int zuobian;
+  for(int c=0;c<=60;c++)
+  {
+    if(Left_Flag[c]==0) zuobian=c;
+  }
+ 
+ if(jin==1)
+  {
+    for(int c=0;c<=30;c++)
+    {
+      
+      a+=(115-(Left[c]+width[c]/2));
+      b++;
+
+    }
+    Errorcam=a/b;
+  }
+  else 
+  {
+     for(int c=0;c<=10;c++)
+    {
+      
+      a+=(94-Middle[c]);
+      b++;
+      
+
+    }
+    Errorcam=a/b;
+  }
+  
+  if(Errorcam>=30) Errorcam=30;
+  if(Errorcam<=-30) Errorcam=-30;
+}
+
+  /*********************◊¢“‚ø…“‘ π”√∑Ω≤Óæ˘÷µ¿¥ºÏ—ÈºŸ…Ë  ◊‘º∫∏¯∂®„–÷µªÚ’ﬂ∞¥’’∑÷≤º*********/
+int jisuan(int shuju[]) 
+{
+  int m,count,jun;
+  int a,b;
+  m=10; //πÃ∂®Œ™ Æ–– µ´ «Œ™¡À–ﬁ∏ƒ∑Ω±„
+  for(int i=0;i<=m-1;i++) count+=shuju[i];
+  jun=count/m;
+  for(int i=0;i<=m-1;i++) a+=(shuju[i]-jun)*(shuju[i]-jun);
+  b=a/(m-1); //—˘±æ∑Ω≤Ó
+  return b;
+  
+}
+void fangcha1(int row) //∑Ω≤Ó—∞’“ µ⁄“ª––
+{
+  /********* Æ¡–‘™Àÿ*******/
+  int a,b;
+  int shuju[10];
+  for(a=0;a<=177;a+=10)
+  {
+    for(b=a;b<=a+9;b++) shuju[b-a]=(int)image[row][b];
+    re[n]=jisuan(shuju);  
+    n++;
+    if(n>=20)n=0;
+  }
+
+}
+  /*****************************************/
+void SetInitVal()
+{
+  for (int c=0;c<=C_H-1;c++)
+  {
+    Right[c]=188;
+    Left[c]=0;
+    Middle[c]=94;
+   
+    Right_Flag[c]=0;
+    Left_Flag[c]=0;
+  }
+}
+
+void getline_first(void)
+{
+
+  SetInitVal();
+  LeftLose        = 0;//±‰¡ø«Â¡„
+  RightLose       = 0;
+  AllLose         = 0;
+  firstyuzhi=90;
+  cn=0;
+  for(int c=0;c<=187;c++)
+  {
+if(image[119][c]>firstyuzhi)
+  {
+    cn=c;
+  }
+    
+  }
+  
+  /************œ»º”“ª≈‹“ª≈‹ø¥ø¥Ã·œﬂÀŸ∂»****************/
+  for(int c=cn;c<=182;c++)
+  {
+    if((image[119][c]-image[119][c+5])>=25)
+    {
+      Right[0]=c;
+      Right_Flag[0]=1;
+      break;
+    }
+  }
+  for(int i = cn;i>=5;i--)
+      {
+        if((image[119][i]-image[119][i-5])>=25)
+        {
+          Left[0] = i;
+          Left_Flag[0]=1;
+          break;
+        }
+      }
+  /**************‘› ±ªπ√ª”–≤πœﬂ****************/
+  
+  if(Right_Flag[0]==1&&Left_Flag[0]==1)
+  {
+  Middle[0]=(Right[0]+Left[0])/2;
+  }
+ else if(Right_Flag[0]==0&&Left_Flag[0]==1)
+  {
+    RightLose++;
+   Middle[0]=(Left[0]+width[0]/2);
+  }
+  else if(Right_Flag[0]==1&&Left_Flag[0]==0)
+  {
+    LeftLose++;
+    Middle[0]=(Right[0]-width[0]/2);
+  }
+  else if(Right_Flag[0]==0&&Left_Flag[0]==0)
+  {
+    AllLose++;
+    Left[0]=10;
+    Right[0]=177;
+    Middle[0]=94; //”√÷–œﬂ÷±Ω”∏¯¡À
+  }
+}
+void getline_others()
+{
+  getline_first();
+  int h=49;
+  fangcha1(h);
+  int xian=5;
+  if(abc==4)xian=0;
+  else xian=2;
+  for(int c=1;c<=C_H-1;c++)
+  {
+      Midpri=Middle[c-1];
+    
+    /****************◊Û”“—∞’“Ã·œﬂ∑®********************/
+    
+    for(int j=Midpri;j>=Left[c-1]-xian;j--)
+    {
+      if((image[119-c][j]-image[119-c][j-5])>=30)
+        {
+          Left[c] = j;
+          Left_Flag[c]=1;
+          break;
+        }
+      if(j<=5) break;
+    }
+    for(int j=Midpri;j<=Right[c-1]+xian;j++)
+    {
+      if((image[119-c][j]-image[119-c][j+5])>=30)
+        {
+          Right[c] = j;
+          Right_Flag[c]=1;
+          break;
+        }
+      if(j>=182) break;
+    }
+    if(Left_Flag[c]==1&&Right_Flag[c]==1)
+    {
+    Middle[c]=(Right[c]+Left[c])/2;
+    }
+    else if(Right_Flag[c]==0&&Left_Flag[c]==1)
+  {
+    RightLose++;
+    Middle[c]=(Left[c]+width[c]/2);
+    Right[c]=Right[c-1];
+  }
+  else if(Right_Flag[c]==1&&Left_Flag[c]==0)
+  {
+    LeftLose++;
+    Middle[c]=(Right[c]-width[c]/2);
+    Left[c]=Left[c-1];
+  }
+  else if(Right_Flag[c]==0&&Left_Flag[c]==0)
+  {
+    AllLose++;
+    Middle[c]=Middle[c-1];
+    Left[c]=Left[c-1];
+    Right[c]=Right[c-1];
+  }
+  }
+  
+  /**************************º∆À„ERROR*******************************/
+    Weight=WeightSum=0;
+    int jie=0;
+    if(abc==4)jie=50;
+    else jie=30;
+    for(int c=jie;c<70;c++)
+    {
+      if(Right_Flag[c]==1||Left_Flag[c]==1)
+      {
+        top_row=70-c;
+        break;
+      }
+    }
+    
+    for(int c=(top_row-top_row/4);c>=top_row/5;c--)
+    {
+      if((Right_Flag[70-c]==1||Left_Flag[70-c]==1)) 
+      {
+        Weight+=(94-Middle[70-c]);
+        WeightSum++;
+      }
+    }
+    if(WeightSum!=0) Errorcam=(float)Weight/(float)WeightSum;
+    /*******************ª∑µ∫◊Ó¥Û◊Û”“µ„≈–∂œ*********************/
+
+    for(int c=70-top_row;c<=60;c++)//leftdot
+    {
+      if(Left_Flag[c]==1)
+      {
+        top_zuo=c;
+        break;
+      }
+      
+    }
+    for(int c=70-top_row;c<=60;c++)//leftdot
+    {
+      if(Right_Flag[c]==1)
+      {
+        top_you=c;
+        break;
+      }
+      
+    }
+    for(int c=top_zuo;c<=70;c++)//leftdot
+    {
+      if((Left[c-1]<Left[c])&&(Left[c+1]<=Left[c]))
+      {
+        leftdot=c;
+        break;
+      }
+      
+    }
+    for(int c=top_zuo;c<=60;c++)//leftdot
+    {
+      if((Right[c-1]>Right[c])&&(Right[c+1]>=Right[c]))
+      {
+        rightdot=c;
+        break;
+      }
+      
+    }
+   /***********************»¸µ¿≈–∂œºÚµ•¥¶¿Ì**********************/
+     abc=0;
+  if(LeftLose>=48&&RightLose==0&&AllLose==0&&zhidao==0&&LeftLose<=56) 
+   {
+     huanzuo=1;
+     
+   }
+   if(Left_Flag[0]==0&&huanzuo==1) 
+   {
+     zuob=1;
+     zhidao=1;
+   
+   }
+   
+   if(huanzuo==1&&zuob==1) 
+   {
+     if(leftdot<=38) jin=1;
+     huandao();
+   }
+   if(AllLose>20&&LeftLose>20&&RightLose==0)
+   {
+     huanzuo=0;
+     zuob=0;
+     jin=0;
+     
+   }
+  if(LeftLose<5&&RightLose<5&&AllLose<5) zhidao=0;
+   if(LeftLose==0&&RightLose>=15&&AllLose==0) 
+   {
+    huanyou=1;
+   
+   }
+   if(AllLose>20&&LeftLose<10&&RightLose<10) 
+   {
+     abc=4;
+   
+   }
+   if(Errorcam>30) Errorcam=30;
+   else if (Errorcam<-30) Errorcam=-30;
+   }
+   
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ #include "headfile.h"
+ #include "Getline.h"
+/****µÁ¥≈****/
+  uint16 sensor[5][SampleNum] = {0}; //µÁ∏–µƒ∂‡∏ˆ≤…—˘÷µ
+  uint8  peak[5] = {0}; //√ø∏ˆµÁ∏–µƒ∑Â∑Â÷µ
+  int  AD=0;
+ /***…„œÒÕ∑***/
+  uint16 Right[C_H];
+  uint16 Left[C_H];
+  uint8 Right_Flag[C_H];
+  uint8 Left_Flag[C_H];
+  int Middle[C_H];
+  int Midpri;
+  int last_row;
+  int top_row;
+  int RightLose,LeftLose,AllLose;
+  int huanzuo,huanyou,jin;
+  int top_zuo,top_you,leftdot,rightdot,zuob,youb;
+  int rightlosestart,leftlosestart;
+  int width[C_H]={
+      150,149,148,146,145,143,141,139,137,135,
+      134,132,130,128,126,124,123,121,119,117,
+      116,114,112,111,109,107,105,103,101,99,
+      97,95,93,92,90,87,85,83,81,79,77,75,73,
+      71,69,67,65,63,61,58,56,54,52,51,49,47,
+      45,42,40,38,36,34,32,30,28,26,24,22,20,18
+  };
+  float weight[70]={
+                     0,0,0,0,0,0,0,0,0,0,
+                    0,0,0,0,0,0.5,0.5,2,1,1,     //0-9––£¨ª˘±æ”√≤ªµΩ
+                    2,1,1,1,1,1,2,2,2,2,  //0-19––£¨ª˘±æ”√≤ªµΩ
+                   
+                   3.8,3.8,1.8,1.8,2.8,3.3,2.3,3.3,3.3,3.3,//20-29––
+
+                   //1.05,1.05,1.05,1.05,1.05,2,2,2,2,2,
+                    
+                   2,2,2,2,2,2.0,2.0,2.5,2.5,2.5,//30-39––
+            
+                   2.1,2.1,2.1,1,1,2,1,1,1,1,//40-49––
+                  1,0,0,0,0,};//◊ÓΩ¸ Æ––*///≤ª—πœﬂ£¨”√”⁄Õ‰µ¿
+  int firstyuzhi;
+  int cn,re[20],abc,n;
+  float Errorcam,Errorele;
+  int  Weight,WeightSum;
+  int luzhang,zhidao;
+  /*****************************ª∑µ∫**************************/
+  void huandao()              //ΩˆΩˆ◊Ûª∑µ∫»Îª∑
+{
+  float a,b;
+  int zuobian;
+  for(int c=0;c<=60;c++)
+  {
+    if(Left_Flag[c]==0) zuobian=c;
+  }
+ 
+ if(jin==1)
+  {
+    for(int c=10;c<=30;c++)
+    {
+      
+      a+=(140-(Left[c]+width[c]/2));
+      b++;
+
+    }
+    Errorcam=a/b;
+  }
+  else 
+  {
+     for(int c=0;c<=10;c++)
+    {
+      
+      a+=(94-Middle[c]);
+      b++;
+      
+
+    }
+    Errorcam=a/b;
+  }
+  
+  
+  if(Errorcam>=30) Errorcam=30;
+  if(Errorcam<=-30) Errorcam=-30;
+}
+
+  /*********************◊¢“‚ø…“‘ π”√∑Ω≤Óæ˘÷µ¿¥ºÏ—ÈºŸ…Ë  ◊‘º∫∏¯∂®„–÷µªÚ’ﬂ∞¥’’∑÷≤º*********/
+int jisuan(int shuju[]) 
+{
+  int m,count,jun;
+  int a,b;
+  m=10; //πÃ∂®Œ™ Æ–– µ´ «Œ™¡À–ﬁ∏ƒ∑Ω±„
+  for(int i=0;i<=m-1;i++) count+=shuju[i];
+  jun=count/m;
+  for(int i=0;i<=m-1;i++) a+=(shuju[i]-jun)*(shuju[i]-jun);
+  b=a/(m-1); //—˘±æ∑Ω≤Ó
+  return b;
+  
+}
+void fangcha1(int row) //∑Ω≤Ó—∞’“ µ⁄“ª––
+{
+  /********* Æ¡–‘™Àÿ*******/
+  int a,b;
+  int shuju[10];
+  for(a=0;a<=177;a+=10)
+  {
+    for(b=a;b<=a+9;b++) shuju[b-a]=(int)image[row][b];
+    re[n]=jisuan(shuju);  
+    n++;
+    if(n>=20)n=0;
+  }
+
+}
+  /*****************************************/
+void SetInitVal()
+{
+  for (int c=0;c<=C_H-1;c++)
+  {
+    Right[c]=188;
+    Left[c]=0;
+    Middle[c]=94;
+   
+    Right_Flag[c]=0;
+    Left_Flag[c]=0;
+  }
+}
+
+void getline_first(void)
+{
+
+  SetInitVal();
+  LeftLose        = 0;//±‰¡ø«Â¡„
+  RightLose       = 0;
+  AllLose         = 0;
+  firstyuzhi=90;
+  cn=0;
+  for(int c=0;c<=187;c++)
+  {
+if(image[119][c]>firstyuzhi)
+  {
+    cn=c;
+  }
+    
+  }
+  
+  /************œ»º”“ª≈‹“ª≈‹ø¥ø¥Ã·œﬂÀŸ∂»****************/
+  for(int c=cn;c<=182;c++)
+  {
+    if((image[119][c]-image[119][c+5])>=25)
+    {
+      Right[0]=c;
+      Right_Flag[0]=1;
+      break;
+    }
+  }
+  for(int i = cn;i>=5;i--)
+      {
+        if((image[119][i]-image[119][i-5])>=25)
+        {
+          Left[0] = i;
+          Left_Flag[0]=1;
+          break;
+        }
+      }
+  /**************‘› ±ªπ√ª”–≤πœﬂ****************/
+  
+  if(Right_Flag[0]==1&&Left_Flag[0]==1)
+  {
+  Middle[0]=(Right[0]+Left[0])/2;
+  }
+ else if(Right_Flag[0]==0&&Left_Flag[0]==1)
+  {
+    RightLose++;
+   Middle[0]=(Left[0]+width[0]/2);
+  }
+  else if(Right_Flag[0]==1&&Left_Flag[0]==0)
+  {
+    LeftLose++;
+    Middle[0]=(Right[0]-width[0]/2);
+  }
+  else if(Right_Flag[0]==0&&Left_Flag[0]==0)
+  {
+    AllLose++;
+    Left[0]=10;
+    Right[0]=177;
+    Middle[0]=94; //”√÷–œﬂ÷±Ω”∏¯¡À
+  }
+}
+void getline_others()
+{
+  getline_first();
+  int h=49;
+  fangcha1(h);
+  int xian=5;
+  if(abc==4)xian=0;
+
+  else xian=5;
+  for(int c=1;c<=C_H-1;c++)
+  {
+      Midpri=Middle[c-1];
+    
+    /****************◊Û”“—∞’“Ã·œﬂ∑®********************/
+    
+    for(int j=Midpri;j>=Left[c-1]-xian;j--)
+    {
+      if((image[119-c][j]-image[119-c][j-5])>=30)
+        {
+          Left[c] = j;
+          Left_Flag[c]=1;
+          break;
+        }
+      if(j<=5) break;
+    }
+    for(int j=Midpri;j<=Right[c-1]+xian;j++)
+    {
+      if((image[119-c][j]-image[119-c][j+5])>=30)
+        {
+          Right[c] = j;
+          Right_Flag[c]=1;
+          break;
+        }
+      if(j>=182) break;
+    }
+    if(Left_Flag[c]==1&&Right_Flag[c]==1)
+    {
+    Middle[c]=(Right[c]+Left[c])/2;
+    }
+    else if(Right_Flag[c]==0&&Left_Flag[c]==1)
+  {
+    RightLose++;
+    Middle[c]=(Left[c]+width[c]/2);
+    Right[c]=Right[c-1];
+  }
+  else if(Right_Flag[c]==1&&Left_Flag[c]==0)
+  {
+    LeftLose++;
+    Middle[c]=(Right[c]-width[c]/2);
+    Left[c]=Left[c-1];
+  }
+  else if(Right_Flag[c]==0&&Left_Flag[c]==0)
+  {
+    AllLose++;
+    Middle[c]=Middle[c-1];
+    Left[c]=Left[c-1];
+    Right[c]=Right[c-1];
+  }
+  }
+  
+  /**************************º∆À„ERROR*******************************/
+    Weight=WeightSum=0;
+    int jie=0;
+    if(abc==4)jie=50;
+    else jie=10;
+    for(int c=jie;c<70;c++)
+    {
+      if(Right_Flag[c]==1||Left_Flag[c]==1)
+      {
+        top_row=70-c;
+        break;
+      }
+    }
+    
+    for(int c=(top_row-top_row/4);c>=top_row/5;c--)
+    {
+      if((Right_Flag[70-c]==1||Left_Flag[70-c]==1)) 
+      {
+        Weight+=(94-Middle[70-c]);
+        WeightSum++;
+      }
+    }
+    if(WeightSum!=0) Errorcam=(float)Weight/(float)WeightSum;
+    /*******************ª∑µ∫◊Ó¥Û◊Û”“µ„≈–∂œ*********************/
+
+    for(int c=70-top_row;c<=60;c++)//leftdot
+    {
+      if(Left_Flag[c]==1)
+      {
+        top_zuo=c;
+        break;
+      }
+      
+    }
+    for(int c=70-top_row;c<=60;c++)//leftdot
+    {
+      if(Right_Flag[c]==1)
+      {
+        top_you=c;
+        break;
+      }
+      
+    }
+    for(int c=top_zuo;c<=70;c++)//leftdot
+    {
+      if((Left[c-1]<Left[c])&&(Left[c+1]<=Left[c]))
+      {
+        leftdot=c;
+        break;
+      }
+      
+    }
+    for(int c=top_zuo;c<=60;c++)//leftdot
+    {
+      if((Right[c-1]>Right[c])&&(Right[c+1]>=Right[c]))
+      {
+        rightdot=c;
+        break;
+      }
+      
+    }
+   /***********************»¸µ¿≈–∂œºÚµ•¥¶¿Ì**********************/
+     abc=0;
+  if(LeftLose>=48&&RightLose==0&&AllLose==0&&zhidao==0&&LeftLose<=56&&zhidao==0) 
+   {
+     huanzuo=1;
+     
+   }
+   if(Left_Flag[0]==0&&huanzuo==1) 
+   {
+     zuob=1;
+     zhidao=1;
+   
+   }
+   
+   if(huanzuo==1&&zuob==1) 
+   {
+     if(leftdot<=38) jin=1;
+     huandao();
+   }
+   if(AllLose>20&&LeftLose>20&&RightLose==0)
+   {
+     huanzuo=0;
+     zuob=0;
+     jin=0;
+     
+   }
+
+  if(LeftLose<5&&RightLose<5&&AllLose<5) zhidao=0;
+  
+   if(LeftLose==0&&RightLose>=15&&AllLose==0) 
+   {
+    huanyou=1;
+   
+   }
+  
+   if(AllLose>25&&LeftLose<10&&RightLose<10&&zhidao==0) 
+   {
+     abc=4;
+   
+   }
+   if(Errorcam>30) Errorcam=30;
+   else if (Errorcam<-30) Errorcam=-30;
+   }
+   
